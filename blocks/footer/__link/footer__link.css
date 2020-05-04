@@ -1,0 +1,13 @@
+.footer__link {
+    color:white;
+    text-decoration: none;
+    display:flex;
+    flex-direction:row;
+    margin:0;
+    opacity: 1;
+    transition: opacity .5s cubic-bezier(.27,.64,.81,.75);
+  }
+
+  .footer__link:hover {
+    opacity: .5;
+  }
