@@ -2,4 +2,10 @@
     margin:0;
     width: 280px;
     height: 38px;
+    opacity: 1;
+    transition: opacity .5s cubic-bezier(.27,.64,.81,.75);
+}
+
+.resources__logo:hover {
+  opacity: .5;
 }

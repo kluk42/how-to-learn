@@ -1,8 +1,11 @@
 @import url(./_theme/section-subtitle_theme_dark.css);
-@import url(./_theme/section-subtitle_theme_techniques.css);
 
 .section-subtitle {
-    align-self: center;
-    text-align: center;
-    font-weight: normal;
+  width: 60%;
+  margin:0 auto 0 auto;
+  align-self: center;
+  text-align: center;
+  font-weight: normal;  
+  line-height: 34px;
+  font-size: 24px;
   }

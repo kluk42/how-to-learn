@@ -1,8 +1,11 @@
 @import url(./_theme/section-title_theme_dark.css);
-@import url(./_theme/section-title_theme_techniques.css);
 
 .section-title {
-    align-self: center;
-    text-align: center;
-    font-weight: bold;
+  margin: 0 auto 20px auto;
+  width: 60%;
+  line-height: 1.15;
+  font-size: 60px;
+  align-self: center;
+  text-align: center;
+  font-weight: bold;
   }
