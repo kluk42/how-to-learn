@@ -4,7 +4,8 @@
     height: 38px;
     opacity: 1;
     transition: opacity .5s cubic-bezier(.27,.64,.81,.75);
-    
+    align-self: stretch;
+    justify-self: stretch;
 }
 
 .resources__logo:hover {
